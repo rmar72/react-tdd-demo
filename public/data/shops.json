@@ -1,0 +1,17 @@
+{
+    "shops" : [
+        {
+            "location": "Boulder",
+            "address" : "13th St & College Ave, Boulder, CO"
+        },
+        {
+            "location": "Henderson",
+            "address" : "104th Ave & Hwy 85, Henderson, CO"
+        },
+        {
+            "location": "",
+            "address" : ""
+        }
+    ]
+    
+}

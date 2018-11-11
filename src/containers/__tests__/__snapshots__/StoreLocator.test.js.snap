@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoreLocator renders correctly 1`] = `
+<div>
+  <div>
+    <img
+      alt="wired-coffee brand logo"
+      src="images/logo.png"
+    />
+  </div>
+  <div
+    className="buttons"
+  />
+  <div
+    className="MapBox"
+  >
+    <img
+      src="images/default.png"
+    />
+  </div>
+</div>
+`;
