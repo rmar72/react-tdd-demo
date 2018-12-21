@@ -1,0 +1,10 @@
+
+section{
+  width: 100%;
+  border: 3px solid black;
+  background: white;
+}
+div > img{
+  background: white;
+  
+}
