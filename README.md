@@ -1,3 +1,13 @@
+React TDD purpose demo utilizing Jest + Enzyme
+
+<img src="https://github.com/rmar72/react-tdd-demo/blob/master/wired%20Coffee.PNG" width="500" />
+
+|
+
+|
+
+|
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
