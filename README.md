@@ -4,7 +4,6 @@ React TDD purpose demo utilizing Jest + Enzyme
 
 |
 
-|
 
 |
 
